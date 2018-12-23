@@ -1,9 +1,9 @@
 # Image-Super-Resolution
 
 ## Using the Super Resolution Convolutional Neural Network for Image Restoration
-    - This network was published in the paper, "Image Super-Resolution Using Deep Convolutional Networks" by Chao Dong in 2014.
-    - We will be deploying the super-resolution convolution nerual network (SRCNN) using Keras.
-    - We can use this model to improve the image quality of low resolution images. 
+   - This network was published in the paper, "Image Super-Resolution Using Deep Convolutional Networks" by Chao Dong in 2014.
+   - We will be deploying the super-resolution convolution nerual network (SRCNN) using Keras.
+   - We can use this model to improve the image quality of low resolution images. 
     
 ## Step 1: Necessary Packages
     - sys
@@ -48,3 +48,6 @@ First of all, it will be necessary to preprocess the images extensively before u
 We will use pre-trained weights for the SRCNN in Keras for this model.
 Then we can perform single-image super-resolution on our input images. Furthermore, after processing, we can calculate the PSNR, MSE, and SSIM on the images that we produce. Finally, we can display the low resolution, and high resolution images for comparison.
 
+Sample result:
+
+[[https://github.com/billyshin/Image-Super_Resolution/blob/master/Image-Super-Resolution/Screen Shot 2018-12-22 at 8.22.44 PM.png|alt=octocat]]
