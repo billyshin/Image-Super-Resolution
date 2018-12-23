@@ -35,7 +35,7 @@ we want to produce low resolution versions of images. We can accomplish this by 
 Calculate the PSNR, MSE, and SSIM between our reference images and the degraded images that we just prepared to ensure that our image quality metrics are being calculated correctly and that the images were effectively degraded.
 Sample:
 
-    bird_GT.bmp
+    bird.bmp
     PSNR: 32.8966447287
     MSE: 100.123758198
     SSIM: 0.953364486603
