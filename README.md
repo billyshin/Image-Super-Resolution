@@ -18,7 +18,7 @@
 ## Step 2: Image Quality Metrics
 Calculate the following:
 
-    - Peak Signal-to-Noise Ratio (PSNR)
+   - Peak Signal-to-Noise Ratio (PSNR)
     
    <a href="https://www.codecogs.com/eqnedit.php?latex={\begin{aligned}{\mathit&space;{PSNR}}&=10\cdot&space;\log&space;_{{10}}\left({\frac&space;{{\mathit&space;{MAX}}_{I}^{2}}{{\mathit&space;{MSE}}}}\right)\\&=20\cdot&space;\log&space;_{{10}}\left({\frac&space;{{\mathit&space;{MAX}}_{I}}{{\sqrt&space;{{\mathit&space;{MSE}}}}}}\right)\\&=20\cdot&space;\log&space;_{{10}}\left({{\mathit&space;{MAX}}_{I}}\right)-10\cdot&space;\log&space;_{{10}}\left({{{\mathit&space;{MSE}}}}\right)\end{aligned}}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?{\begin{aligned}{\mathit&space;{PSNR}}&=10\cdot&space;\log&space;_{{10}}\left({\frac&space;{{\mathit&space;{MAX}}_{I}^{2}}{{\mathit&space;{MSE}}}}\right)\\&=20\cdot&space;\log&space;_{{10}}\left({\frac&space;{{\mathit&space;{MAX}}_{I}}{{\sqrt&space;{{\mathit&space;{MSE}}}}}}\right)\\&=20\cdot&space;\log&space;_{{10}}\left({{\mathit&space;{MAX}}_{I}}\right)-10\cdot&space;\log&space;_{{10}}\left({{{\mathit&space;{MSE}}}}\right)\end{aligned}}" title="{\begin{aligned}{\mathit {PSNR}}&=10\cdot \log _{{10}}\left({\frac {{\mathit {MAX}}_{I}^{2}}{{\mathit {MSE}}}}\right)\\&=20\cdot \log _{{10}}\left({\frac {{\mathit {MAX}}_{I}}{{\sqrt {{\mathit {MSE}}}}}}\right)\\&=20\cdot \log _{{10}}\left({{\mathit {MAX}}_{I}}\right)-10\cdot \log _{{10}}\left({{{\mathit {MSE}}}}\right)\end{aligned}}" /></a>
     
