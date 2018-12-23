@@ -50,4 +50,4 @@ Then we can perform single-image super-resolution on our input images. Furthermo
 
 Sample result:
 
-[[https://github.com/billyshin/Image-Super_Resolution/blob/master/Image-Super-Resolution/Screen Shot 2018-12-22 at 8.22.44 PM.png|alt=octocat]]
+[[https://github.com/billyshin/Image-Super_Resolution/blob/master/Image-Super-Resolution/ScreenShot-2018-12-22-at-8.22.44PM.png|alt=octocat]]
